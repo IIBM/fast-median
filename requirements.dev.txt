@@ -1,0 +1,7 @@
+ipython
+matplotlib
+pylint
+pre-commit
+ray
+scikit-learn
+sympy
